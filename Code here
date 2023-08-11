@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohammad Ahmad - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #35424a;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: gainsboro;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+            border-radius: 5px;
+        }
+        h1 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mohammad Ahmad</h1>
+        <p>Student</p>
+    </header>
+    <div class="container">
+        <h2>About Me</h2>
+        <p>Hello! I'm Mohammad Ahmad, a student with a passion for learning and exploring new things.</p>
+        
+        <h2>Contact Information</h2>
+        <p>Email: ItzMohammadAhmad8081@gmail.com</p>
+        <p>Phone: +91 8318229504 </p>
+        
+        <h2>Connect with Me</h2>
+        <ul>
+            <li><a href="https://www.linkedin.com/in/mohammad-ahmad-01082b284/" target="_blank">LinkedIn</a></li>
+            <li><a href="https://www.youtube.com/@foodholicscorner7078/videos" target="_blank">Youtube channel</a></li>
+            <li><a href="https://github.com/dashboard" target="_blank">GitHub</a></li>
+        </ul>
+    </div>
+</body>
+</html>
+</html>
